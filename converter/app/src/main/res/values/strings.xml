@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="button_send">Send</string>
+    <string name="decimal">Decimal</string>
+    <string name="binary">Binary</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="Clear">Clear</string>
+</resources>
